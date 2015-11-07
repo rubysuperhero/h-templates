@@ -1,7 +1,7 @@
 project: h-templates
-bins:
+bin:
   - bin/h-templates
-templates:
+template:
   - templates/bin.rb
   - templates/command_with_options.rb
   - templates/experiment.rb
